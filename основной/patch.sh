@@ -1,4 +1,4 @@
-cd $HOME/ighack/core                                                                                   
+cd $git clone /ighack/core                                                                                   
 update(){                                                                                                             
 if wget --spider https://raw.githubusercontent.com/noob-hackers/patchupdateznh/main/ighackpatch.v.1 2>/dev/null; then
 cd $HOME/ighack/core
